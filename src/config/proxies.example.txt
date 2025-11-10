@@ -1,0 +1,4 @@
+# One proxy per line. Formats supported by aiohttp, e.g.:
+# http://user:pass@host:port
+# https://user:pass@host:port
+# socks5://user:pass@host:port
