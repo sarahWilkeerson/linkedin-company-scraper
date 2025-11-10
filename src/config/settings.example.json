@@ -1,0 +1,8 @@
+{
+  "concurrency": 12,
+  "timeoutSeconds": 30,
+  "includeRawHtml": false,
+  "userAgent": "Mozilla/5.0 (compatible; BitbashLinkedInScraper/1.0)",
+  "proxiesFile": "src/config/proxies.example.txt",
+  "output": "data/out.json"
+}
