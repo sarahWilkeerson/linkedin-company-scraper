@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "name": "Microsoft",
+      "url": "https://www.linkedin.com/company/microsoft",
+      "mainAddress": {
+        "type": "PostalAddress",
+        "streetAddress": "1 Microsoft Way",
+        "addressLocality": "Redmond",
+        "addressRegion": "Washington",
+        "postalCode": "98052",
+        "addressCountry": "US"
+      },
+      "description": "Example output placeholder for demonstration.",
+      "numberOfEmployees": 239012,
+      "logo": "https://media.licdn.com/example/microsoft_logo.png",
+      "website": "https://news.microsoft.com/",
+      "industry": "Software Development",
+      "companySize": "10,001+ employees",
+      "headquarters": "1 Microsoft Way , Redmond , US",
+      "type": "Public Company",
+      "founded": 1975,
+      "specialties": "Business Software, Developer Tools, Cloud Computing, AI, Productivity",
+      "followersCount": 791715,
+      "stock": {
+        "symbol": "MSFT",
+        "price": "$408.43",
+        "change": "-2.11 (-0.514%)"
+      },
+      "addresses": [
+        "Thames Valley Park Drive, Reading, Berkshire RG6 1WG, GB"
+      ],
+      "affiliatedPages": [],
+      "similarPages": [],
+      "scrapedAt": "2025-11-10T22:00:00Z"
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "records": 1,
+    "errors": 0
+  }
+}
